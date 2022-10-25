@@ -1,2 +1,2 @@
 # TabsReactJS
-Created with CodeSandbox
+![](image.jpg)
